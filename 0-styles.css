@@ -11,3 +11,7 @@ li {
   height: 300px;
   text-align: center;
 }
+
+.icon {
+    background: url("/images/0-sprite.png");
+}
